@@ -121,17 +121,17 @@ Each dataset has a specific format:
 [//]: # '| FNXL | XBRL Tagging | -/247 | 7.1k | Accuracy, F1 | [soummyaah/FNXL](https://github.com/soummyaah/FNXL), Public |'
 [//]: #
 [//]: # '| XBRL Term | Terminology | 5.9k/651 | 25 |'
-[//]: # 'BERTScore | [Removed for anonymization],'
+[//]: # 'BERTScore | [KirkHan0920/XBRL-Agent](https://github.com/KirkHan0920/XBRL-Agent/blob/main/Datasets/XBRL%20Terminology.xlsx),'
 [//]: # 'MIT |'
 [//]: #
 [//]: # '| **Financial Statement Analysis Tasks** (Total: 27.9k/7.3k) | | | | | |'
 [//]: #
 [//]: # '| Financial Math | Math | 800/200 | 116 |'
-[//]: # 'Accuracy | [Removed for anonymization],'
+[//]: # 'Accuracy | [KirkHan0920/XBRL-Agent](https://github.com/KirkHan0920/XBRL-Agent/blob/main/Datasets/formulas_with_explanations_with_questions_with_gt.xlsx),'
 [//]: # 'MIT |'
 [//]: #
 [//]: # '| FinanceBench | Math | 86/43 | 983 |'
-[//]: # 'BERTScore | [Removed for anonymization], CC'
+[//]: # 'BERTScore | [KirkHan0920/XBRL-Agent](https://github.com/KirkHan0920/XBRL-Agent/blob/main/Datasets/financebench.xlsx), CC'
 [//]: # 'BY-NC 4.0 |'
 [//]: #
 [//]: # '| Tags Extraction | XBRL Analysis | 10.1K/2.9k | 3.8k | Accuracy,'
@@ -144,7 +144,7 @@ Each dataset has a specific format:
 [//]: # 'F1 | [[Removed for anonymization]](https://huggingface.co/datasets/[Removed for anonymization]), MIT |'
 [//]: #
 [//]: # '| Formula Calculation | XBRL Analysis | 3.4K/835 | 3.8k | Accuracy,'
-[//]: # 'F1 | [[Removed for anonymization]](https://huggingface.co/datasets/[Removed for anonymization]), MIT |'
+[//]: # 'F1 | Removed for anonymization]](https://huggingface.co/datasets/[Removed for anonymization]), MIT |'
 
 ## Benchmark Results
 

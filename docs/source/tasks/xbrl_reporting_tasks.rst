@@ -40,7 +40,7 @@ XBRL tagging is a crucial step in creating XBRL reports. This process involves t
      - 651
      - 25
      - BERTScore
-     - [Removed for anonymization]
+     - `GitHub <https://github.com/KirkHan0920/XBRL-Agent/blob/main/Datasets/XBRL%20Terminology.xlsx>`__
      - `xbrl_term_train.jsonl <data/train/xbrl_term_train.jsonl>`__
      - `xbrl_term_test.jsonl <data/test/xbrl_term_test.jsonl>`__
 

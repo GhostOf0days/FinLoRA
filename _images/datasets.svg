@@ -288,8 +288,8 @@
             <text class="table-text" x="340" y="25">5.9k/651</text>
             <text class="table-text" x="460" y="25">25</text>
             <text class="table-text" x="580" y="25">BERTScore</text>
-            <a xlink:href="#" target="_blank">
-                <text class="table-text link-text" x="700" y="25">[Removed for anonymization]</text>
+            <a xlink:href="https://www.xbrl.org/" target="_blank">
+                <text class="table-text link-text" x="700" y="25">XBRL International</text>
             </a>
             <line class="row-border" x1="0" y1="40" x2="950" y2="40"/>
         </g>
@@ -310,7 +310,7 @@
             <text class="table-text" x="460" y="25">116</text>
             <text class="table-text" x="580" y="25">Accuracy</text>
             <a xlink:href="#" target="_blank">
-                <text class="table-text link-text" x="700" y="25">[Removed for anonymization]</text>
+                <text class="table-text link-text" x="700" y="25">Standard References</text>
             </a>
             <line class="row-border" x1="0" y1="40" x2="950" y2="40"/>
         </g>
@@ -322,8 +322,8 @@
             <text class="table-text" x="340" y="25">86/43</text>
             <text class="table-text" x="460" y="25">983</text>
             <text class="table-text" x="580" y="25">BERTScore</text>
-            <a xlink:href="#" target="_blank">
-                <text class="table-text link-text" x="700" y="25">[Removed for anonymization]</text>
+            <a xlink:href="https://arxiv.org/abs/2311.11944" target="_blank">
+                <text class="table-text link-text" x="700" y="25">FinanceBench Paper</text>
             </a>
             <line class="row-border" x1="0" y1="40" x2="950" y2="40"/>
         </g>

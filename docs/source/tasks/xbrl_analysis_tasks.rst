@@ -21,7 +21,7 @@ Financial Statement Analysis
      - 200
      - 116
      - Accuracy
-     - [Removed for anonymization]
+     - `GitHub <https://github.com/KirkHan0920/XBRL-Agent/blob/main/Datasets/formulas_with_explanations_with_questions_with_gt.xlsx>`__
      - `formula_train.jsonl <data/train/formula_train.jsonl>`__
      - `formula_test.jsonl <data/test/formula_test.jsonl>`__
    * - Tag Extraction
@@ -66,7 +66,7 @@ Financial Statement Analysis
      - 43
      - 983
      - BERTScore
-     - [Removed for anonymization]
+     - `GitHub <https://github.com/KirkHan0920/XBRL-Agent/blob/main/Datasets/financebench.xlsx>`__
      - `financebench_train.jsonl <data/train/financebench_train.jsonl>`__
      - `financebench_test.jsonl <data/test/financebench_test.jsonl>`__
 

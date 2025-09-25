@@ -20,14 +20,13 @@ Datasets
 .. [FiNER-139] Loukas, L., Fergadiotis, M., Chalkidis, I., Spyropoulou, E., Malakasiotis, P., Androutsopoulos, I., & Paliouras, G. (2022). *FiNER-139: Financial Numeric Entity Recognition for XBRL Tagging*. Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 4419-4431.
 
 .. [FNXL] Soumya, A., & Joshi, A. (2021). *FNXL: Financial Numerical Expression Labeling*. GitHub Repository. https://github.com/soummyaah/FNXL
-
-.. [XBRL_Term] [Removed for anonymization] (2023). *XBRL Terminology*. [Removed for anonymization]
+.. [XBRL_Term] Han, K., Wang, D., & Zha, D. (2023). *XBRL Terminology*. GitHub Repository. https://github.com/KirkHan0920/XBRL-Agent/blob/main/Datasets/XBRL%20Terminology.xlsx
 
 .. [XBRL_Analysis] [Removed for anonymization] (2023). *XBRL Analysis Dataset*. [Removed for anonymization]
 
-.. [Financial_Math] [Removed for anonymization] (2023). *Financial Math Formulas*. [Removed for anonymization]
+.. [Financial_Math] Han, K., Wang, D., & Zha, D. (2023). *Financial Math Formulas*. GitHub Repository. https://github.com/KirkHan0920/XBRL-Agent/blob/main/Datasets/formulas_with_explanations_with_questions_with_gt.xlsx
 
-.. [FinanceBench] [Removed for anonymization] (2023). *FinanceBench*. [Removed for anonymization]
+.. [FinanceBench] Han, K., Wang, D., & Zha, D. (2023). *FinanceBench*. GitHub Repository. https://github.com/KirkHan0920/XBRL-Agent/blob/main/Datasets/financebench.xlsx
 
 Large Language Models
 --------------------
