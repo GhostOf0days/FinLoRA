@@ -90,7 +90,6 @@ def main():
     tokenizer = AutoTokenizer.from_pretrained(BASE_MODEL_NAME)
     print("===== BASE MODEL =====")
     base = AutoModelForCausalLM.from_pretrained(BASE_MODEL_NAME, torch_dtype=torch.bfloat16)
-    base.to(TEST_DEVICE)
     base_llm = HFLLM(base, tokenizer, "base")
     base_score = eval_on_mmlu("base", base_llm)
     append_row({"model": "base", "overall": base_score, "Δ% vs base": 0.0}, header=True)
