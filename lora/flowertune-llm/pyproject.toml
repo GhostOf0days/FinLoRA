@@ -33,7 +33,7 @@ serverapp = "flowertune_llm.server_app:app"
 clientapp = "flowertune_llm.client_app:app"
 
 [tool.flwr.app.config]
-dataset.name = "wangd12/xbrl_analysis_train"
+dataset.name = "[Removed for anonymization]"
 model.name = "meta-llama/Llama-3.1-8B-Instruct"
 model.quantization = 8
 model.gradient-checkpointing = true

@@ -50,7 +50,7 @@ def find_elements_by_context_ref(xml_f_name, context_id):
 def gen_xbrl(cat):
     global all_train
     for split in ["train", "test"]:
-        data = datasets.load_dataset("wangd12/XBRL_extraction", cat)[split]
+        data = datasets.load_dataset("[Removed for anonymization]/XBRL_extraction", cat)[split]
         processed_data = []
 
         if split == "train" and (cat == "tags" or cat == "value"):  # tags and value have larger train split

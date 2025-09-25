@@ -288,8 +288,8 @@
             <text class="table-text" x="340" y="25">5.9k/651</text>
             <text class="table-text" x="460" y="25">25</text>
             <text class="table-text" x="580" y="25">BERTScore</text>
-            <a xlink:href="https://github.com/KirkHan0920/XBRL-Agent/blob/main/Datasets/XBRL%20Terminology.xlsx" target="_blank">
-                <text class="table-text link-text" x="700" y="25">KirkHan0920/XBRL-Agent</text>
+            <a xlink:href="#" target="_blank">
+                <text class="table-text link-text" x="700" y="25">[Removed for anonymization]</text>
             </a>
             <line class="row-border" x1="0" y1="40" x2="950" y2="40"/>
         </g>
@@ -309,8 +309,8 @@
             <text class="table-text" x="340" y="25">800/200</text>
             <text class="table-text" x="460" y="25">116</text>
             <text class="table-text" x="580" y="25">Accuracy</text>
-            <a xlink:href="https://github.com/KirkHan0920/XBRL-Agent/blob/main/Datasets/formulas_with_explanations_with_questions_with_gt.xlsx" target="_blank">
-                <text class="table-text link-text" x="700" y="25">KirkHan0920/XBRL-Agent</text>
+            <a xlink:href="#" target="_blank">
+                <text class="table-text link-text" x="700" y="25">[Removed for anonymization]</text>
             </a>
             <line class="row-border" x1="0" y1="40" x2="950" y2="40"/>
         </g>
@@ -322,8 +322,8 @@
             <text class="table-text" x="340" y="25">86/43</text>
             <text class="table-text" x="460" y="25">983</text>
             <text class="table-text" x="580" y="25">BERTScore</text>
-            <a xlink:href="https://github.com/KirkHan0920/XBRL-Agent/blob/main/Datasets/financebench.xlsx" target="_blank">
-                <text class="table-text link-text" x="700" y="25">KirkHan0920/XBRL-Agent</text>
+            <a xlink:href="#" target="_blank">
+                <text class="table-text link-text" x="700" y="25">[Removed for anonymization]</text>
             </a>
             <line class="row-border" x1="0" y1="40" x2="950" y2="40"/>
         </g>
@@ -335,8 +335,8 @@
             <text class="table-text" x="340" y="25">10.1K/2.9k</text>
             <text class="table-text" x="460" y="25">3.8k</text>
             <text class="table-text" x="580" y="25">Accuracy, F1</text>
-            <a xlink:href="https://huggingface.co/datasets/wangd12/XBRL_analysis" target="_blank">
-                <text class="table-text link-text" x="700" y="25">wangd12/XBRL_analysis</text>
+            <a xlink:href="https://huggingface.co/datasets/[Removed for anonymization]" target="_blank">
+                <text class="table-text link-text" x="700" y="25">[Removed for anonymization]</text>
             </a>
             <line class="row-border" x1="0" y1="40" x2="950" y2="40"/>
         </g>
@@ -348,8 +348,8 @@
             <text class="table-text" x="340" y="25">10.1k/2.5k</text>
             <text class="table-text" x="460" y="25">3.8k</text>
             <text class="table-text" x="580" y="25">Accuracy, F1</text>
-            <a xlink:href="https://huggingface.co/datasets/wangd12/XBRL_analysis" target="_blank">
-                <text class="table-text link-text" x="700" y="25">wangd12/XBRL_analysis</text>
+            <a xlink:href="https://huggingface.co/datasets/[Removed for anonymization]" target="_blank">
+                <text class="table-text link-text" x="700" y="25">[Removed for anonymization]</text>
             </a>
             <line class="row-border" x1="0" y1="40" x2="950" y2="40"/>
         </g>
@@ -361,8 +361,8 @@
             <text class="table-text" x="340" y="25">3.4K/835</text>
             <text class="table-text" x="460" y="25">3.8k</text>
             <text class="table-text" x="580" y="25">Accuracy, F1</text>
-            <a xlink:href="https://huggingface.co/datasets/wangd12/XBRL_analysis" target="_blank">
-                <text class="table-text link-text" x="700" y="25">wangd12/XBRL_analysis</text>
+            <a xlink:href="https://huggingface.co/datasets/[Removed for anonymization]" target="_blank">
+                <text class="table-text link-text" x="700" y="25">[Removed for anonymization]</text>
             </a>
             <line class="row-border" x1="0" y1="40" x2="950" y2="40"/>
         </g>
@@ -374,8 +374,8 @@
             <text class="table-text" x="340" y="25">3.4K/835</text>
             <text class="table-text" x="460" y="25">3.8k</text>
             <text class="table-text" x="580" y="25">Accuracy, F1</text>
-            <a xlink:href="https://huggingface.co/datasets/wangd12/XBRL_analysis" target="_blank">
-                <text class="table-text link-text" x="700" y="25">wangd12/XBRL_analysis</text>
+            <a xlink:href="https://huggingface.co/datasets/[Removed for anonymization]" target="_blank">
+                <text class="table-text link-text" x="700" y="25">[Removed for anonymization]</text>
             </a>
         </g>
     </g>

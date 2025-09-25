@@ -25,7 +25,7 @@ declare -A model_map=(
 
 # Start the fine-tuning job in a detached tmux session
 tmux new-session -d -s "training_job_${task}" '
-export HF_TOKEN=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
+# export HF_TOKEN=your_huggingface_token_here
 
   export CUDA_VISIBLE_DEVICES=0,1,2,3
     export NCCL_IGNORE_DISABLED_P2P=1

@@ -23,8 +23,8 @@ We consider six general financial tasks, in total 122.9k train questions and 31.
      - 56
      - Accuracy, F1
      - `Hugging Face <https://huggingface.co/datasets/TheFinAI/en-fpb>`__
-     - Part of `finlora_sentiment_train.jsonl <https://github.com/Open-Finance-Lab/FinLoRA/blob/main/data/train/finlora_sentiment_train.jsonl>`__
-     - `fpb_test.jsonl <https://github.com/Open-Finance-Lab/FinLoRA/blob/main/data/test/fpb_test.jsonl>`__
+     - Part of `finlora_sentiment_train.jsonl <data/train/finlora_sentiment_train.jsonl>`__
+     - `fpb_test.jsonl <data/test/fpb_test.jsonl>`__
    * - Financial Question Answering (FiQA SA)
      - Sentiment Analysis
      - 822
@@ -32,8 +32,8 @@ We consider six general financial tasks, in total 122.9k train questions and 31.
      - 48
      - Accuracy, F1
      - `Hugging Face <https://huggingface.co/datasets/TheFinAI/fiqa-sentiment-classification>`__
-     - Part of `finlora_sentiment_train.jsonl <https://github.com/Open-Finance-Lab/FinLoRA/blob/main/data/train/finlora_sentiment_train.jsonl>`__
-     - `fiqa_test.jsonl <https://github.com/Open-Finance-Lab/FinLoRA/blob/main/data/test/fiqa_test.jsonl>`__
+     - Part of `finlora_sentiment_train.jsonl <data/train/finlora_sentiment_train.jsonl>`__
+     - `fiqa_test.jsonl <data/test/fiqa_test.jsonl>`__
    * - Twitter Financial News Sentiment (TFNS)
      - Sentiment Analysis
      - 9.5k
@@ -41,8 +41,8 @@ We consider six general financial tasks, in total 122.9k train questions and 31.
      - 52
      - Accuracy, F1
      - `Hugging Face <https://huggingface.co/datasets/zeroshot/twitter-financial-news-sentiment>`__
-     - Part of `finlora_sentiment_train.jsonl <https://github.com/Open-Finance-Lab/FinLoRA/blob/main/data/train/finlora_sentiment_train.jsonl>`__
-     - `tfns_test.jsonl <https://github.com/Open-Finance-Lab/FinLoRA/blob/main/data/test/tfns_test.jsonl>`__
+     - Part of `finlora_sentiment_train.jsonl <data/train/finlora_sentiment_train.jsonl>`__
+     - `tfns_test.jsonl <data/test/tfns_test.jsonl>`__
    * - News with GPT (NWGI)
      - Sentiment Analysis
      - 12.9k
@@ -50,8 +50,8 @@ We consider six general financial tasks, in total 122.9k train questions and 31.
      - 81
      - Accuracy, F1
      - `Hugging Face <https://huggingface.co/datasets/TheFinAI/NWGI_test>`__
-     - Part of `finlora_sentiment_train.jsonl <https://github.com/Open-Finance-Lab/FinLoRA/blob/main/data/train/finlora_sentiment_train.jsonl>`__
-     - `nwgi_test.jsonl <https://github.com/Open-Finance-Lab/FinLoRA/blob/main/data/test/nwgi_test.jsonl>`__
+     - Part of `finlora_sentiment_train.jsonl <data/train/finlora_sentiment_train.jsonl>`__
+     - `nwgi_test.jsonl <data/test/nwgi_test.jsonl>`__
    * - Headline
      - Headline Analysis
      - 82.2k
@@ -59,8 +59,8 @@ We consider six general financial tasks, in total 122.9k train questions and 31.
      - 43
      - Accuracy, F1
      - `Hugging Face <https://huggingface.co/datasets/FinGPT/fingpt-headline-cls>`__
-     - `headline_train.jsonl <https://github.com/Open-Finance-Lab/FinLoRA/blob/main/data/train/headline_train.jsonl>`__
-     - `headline_test.jsonl <https://github.com/Open-Finance-Lab/FinLoRA/blob/main/data/test/headline_test.jsonl>`__
+     - `headline_train.jsonl <data/train/headline_train.jsonl>`__
+     - `headline_test.jsonl <data/test/headline_test.jsonl>`__
    * - Named Entity Recognition (NER)
      - Named Entity Recognition
      - 13.5k
@@ -68,8 +68,8 @@ We consider six general financial tasks, in total 122.9k train questions and 31.
      - 138
      - Accuracy, F1
      - `Hugging Face <https://huggingface.co/datasets/FinGPT/fingpt-ner-cls>`__
-     - `ner_train.jsonl <https://github.com/Open-Finance-Lab/FinLoRA/blob/main/data/train/ner_train.jsonl>`__
-     - `ner_test.jsonl <https://github.com/Open-Finance-Lab/FinLoRA/blob/main/data/test/ner_test.jsonl>`__
+     - `ner_train.jsonl <data/train/ner_train.jsonl>`__
+     - `ner_test.jsonl <data/test/ner_test.jsonl>`__
 
 
 

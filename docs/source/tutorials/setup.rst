@@ -46,7 +46,7 @@ The easiest way to set up the environment is to use the provided setup script:
 
 .. code-block:: bash
 
-   git clone https://github.com/Open-Finance-Lab/FinLoRA.git
+   git clone [REPOSITORY_URL]
    cd FinLoRA
    chmod +x setup.sh
    ./setup.sh

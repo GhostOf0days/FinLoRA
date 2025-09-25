@@ -1,11 +1,11 @@
 # FinLoRA: Benchmarking LoRA Methods for Fine-Tuning LLMs on Financial Datasets
 
 <p>
-  <a href="https://huggingface.co/datasets/wangd12/XBRL_analysis"><img src="_images/dataset_btn.svg"></a>
-  <a href="https://huggingface.co/spaces/wangd12/xbrl_llm_demo"><img src="_images/demo_btn.svg"></a>
-  <a href="https://huggingface.co/wangd12/"><img src="_images/models_btn.svg"></a>
-  <a href="https://arxiv.org/abs/2505.19819"><img src="_images/paper_btn.svg"></a>
-  <a href="https://finlora-docs.readthedocs.io/en/latest/"><img src="_images/doc_btn.svg"></a>
+  <a href="#datasets"><img src="_images/dataset_btn.svg"></a>
+  <a href="#demo"><img src="_images/demo_btn.svg"></a>
+  <a href="#lora-adapters"><img src="_images/models_btn.svg"></a>
+  <a href="#citation"><img src="_images/paper_btn.svg"></a>
+  <a href="#guide"><img src="_images/doc_btn.svg"></a>
 
 </p>
 
@@ -130,30 +130,30 @@ Each dataset has a specific format:
 [//]: # '| FNXL | XBRL Tagging | -/247 | 7.1k | Accuracy, F1 | [soummyaah/FNXL](https://github.com/soummyaah/FNXL), Public |'
 [//]: #
 [//]: # '| XBRL Term | Terminology | 5.9k/651 | 25 |'
-[//]: # 'BERTScore | [KirkHan0920/XBRL-Agent](https://github.com/KirkHan0920/XBRL-Agent/blob/main/Datasets/XBRL%20Terminology.xlsx),'
+[//]: # 'BERTScore | [Removed for anonymization],'
 [//]: # 'MIT |'
 [//]: #
 [//]: # '| **Financial Statement Analysis Tasks** (Total: 27.9k/7.3k) | | | | | |'
 [//]: #
 [//]: # '| Financial Math | Math | 800/200 | 116 |'
-[//]: # 'Accuracy | [KirkHan0920/XBRL-Agent](https://github.com/KirkHan0920/XBRL-Agent/blob/main/Datasets/formulas_with_explanations_with_questions_with_gt.xlsx),'
+[//]: # 'Accuracy | [Removed for anonymization],'
 [//]: # 'MIT |'
 [//]: #
 [//]: # '| FinanceBench | Math | 86/43 | 983 |'
-[//]: # 'BERTScore | [KirkHan0920/XBRL-Agent](https://github.com/KirkHan0920/XBRL-Agent/blob/main/Datasets/financebench.xlsx), CC'
+[//]: # 'BERTScore | [Removed for anonymization], CC'
 [//]: # 'BY-NC 4.0 |'
 [//]: #
 [//]: # '| Tags Extraction | XBRL Analysis | 10.1K/2.9k | 3.8k | Accuracy,'
-[//]: # 'F1 | [wangd12/XBRL_analysis](https://huggingface.co/datasets/wangd12/XBRL_analysis), MIT |'
+[//]: # 'F1 | [[Removed for anonymization]](https://huggingface.co/datasets/[Removed for anonymization]), MIT |'
 [//]: #
 [//]: # '| Values Extraction | XBRL Analysis | 10.1k/2.5k | 3.8k | Accuracy,'
-[//]: # 'F1 | [wangd12/XBRL_analysis](https://huggingface.co/datasets/wangd12/XBRL_analysis), MIT |'
+[//]: # 'F1 | [[Removed for anonymization]](https://huggingface.co/datasets/[Removed for anonymization]), MIT |'
 [//]: #
 [//]: # '| Formula Construction | XBRL Analysis | 3.4K/835 | 3.8k | Accuracy,'
-[//]: # 'F1 | [wangd12/XBRL_analysis](https://huggingface.co/datasets/wangd12/XBRL_analysis), MIT |'
+[//]: # 'F1 | [[Removed for anonymization]](https://huggingface.co/datasets/[Removed for anonymization]), MIT |'
 [//]: #
 [//]: # '| Formula Calculation | XBRL Analysis | 3.4K/835 | 3.8k | Accuracy,'
-[//]: # 'F1 | [wangd12/XBRL_analysis](https://huggingface.co/datasets/wangd12/XBRL_analysis), MIT |'
+[//]: # 'F1 | [[Removed for anonymization]](https://huggingface.co/datasets/[Removed for anonymization]), MIT |'
 
 ## Benchmark Results
 
@@ -203,7 +203,7 @@ Our models achieve the following performance on financial tasks. The table below
 
 We use four LoRA methods: LoRA, QLoRA, DoRA, and rsLoRA.
 
-You can download LoRA adapaters from the `lora_adapters` directory or [Hugging Face](https://huggingface.co/wangd12). The adapters are fine-tuned on financial datasets using various configurations (e.g., 8-bit rank 8 and 4-bit rank 4).
+You can download LoRA adapaters from the `lora_adapters` directory. The adapters are fine-tuned on financial datasets using various configurations (e.g., 8-bit rank 8 and 4-bit rank 4).
 
 ## File Structure
 
@@ -277,7 +277,7 @@ You can set up the environment using either the provided setup script or conda e
 The easiest way to set up the environment is to use the provided setup script:
 
 ```bash
-git clone https://github.com/Open-Finance-Lab/FinLoRA.git
+git clone [REPOSITORY_URL]
 cd FinLoRA
 chmod +x setup.sh
 ./setup.sh
@@ -491,10 +491,10 @@ This project is released under OpenMDW-1.0. Please check individual dataset lice
 If you use this work, please cite:
 
 ```bibtex
-@article{wang2025finlora,
+@article{finlora2025,
   title={FinLoRA: Benchmarking LoRA Methods for Fine-Tuning LLMs on Financial Datasets},
-  author={Wang, Dannong and Patel, Jaisal and Zha, Daochen and Yang, Steve Y and Liu, Xiao-Yang},
-  journal={arXiv preprint arXiv:2505.19819},
+  author={Anonymous},
+  journal={Under Review},
   year={2025}
 }
 ```

@@ -21,54 +21,54 @@ Financial Statement Analysis
      - 200
      - 116
      - Accuracy
-     - `GitHub <https://github.com/KirkHan0920/XBRL-Agent/blob/main/Datasets/formulas_with_explanations_with_questions_with_gt.xlsx>`__
-     - `formula_train.jsonl <https://github.com/Open-Finance-Lab/FinLoRA/blob/main/data/train/formula_train.jsonl>`__
-     - `formula_test.jsonl <https://github.com/Open-Finance-Lab/FinLoRA/blob/main/data/test/formula_test.jsonl>`__
+     - [Removed for anonymization]
+     - `formula_train.jsonl <data/train/formula_train.jsonl>`__
+     - `formula_test.jsonl <data/test/formula_test.jsonl>`__
    * - Tag Extraction
      - XBRL Extraction
      - 10.1k
      - 2.9k
      - 3.8k
      - Accuracy, F1
-     - `Hugging Face <https://huggingface.co/datasets/wangd12/XBRL_analysis>`__
-     - `xbrl_extract_train.jsonl <https://github.com/Open-Finance-Lab/FinLoRA/blob/main/data/train/xbrl_extract_train.jsonl>`__
-     - `xbrl_extract_tags_test.jsonl <https://github.com/Open-Finance-Lab/FinLoRA/blob/main/data/test/xbrl_extract_tags_test.jsonl>`__
+     - [Removed for anonymization]
+     - `xbrl_extract_train.jsonl <data/train/xbrl_extract_train.jsonl>`__
+     - `xbrl_extract_tags_test.jsonl <data/test/xbrl_extract_tags_test.jsonl>`__
    * - Value Extraction
      - XBRL Extraction
      - 10.1k
      - 2.5k
      - 3.8k
      - Accuracy, F1
-     - `Hugging Face <https://huggingface.co/datasets/wangd12/XBRL_analysis>`__
-     - `xbrl_extract_train.jsonl <https://github.com/Open-Finance-Lab/FinLoRA/blob/main/data/train/xbrl_extract_train.jsonl>`__
-     - `xbrl_extract_value_test.jsonl <https://github.com/Open-Finance-Lab/FinLoRA/blob/main/data/test/xbrl_extract_value_test.jsonl>`__
+     - [Removed for anonymization]
+     - `xbrl_extract_train.jsonl <data/train/xbrl_extract_train.jsonl>`__
+     - `xbrl_extract_value_test.jsonl <data/test/xbrl_extract_value_test.jsonl>`__
    * - Formula Construction
      - XBRL Extraction
      - 3.4k
      - 835
      - 3.8k
      - Accuracy, F1
-     - `Hugging Face <https://huggingface.co/datasets/wangd12/XBRL_analysis>`__
-     - `xbrl_extract_train.jsonl <https://github.com/Open-Finance-Lab/FinLoRA/blob/main/data/train/xbrl_extract_train.jsonl>`__
-     - `xbrl_extract_formula_test.jsonl <https://github.com/Open-Finance-Lab/FinLoRA/blob/main/data/test/xbrl_extract_formula_test.jsonl>`__
+     - [Removed for anonymization]
+     - `xbrl_extract_train.jsonl <data/train/xbrl_extract_train.jsonl>`__
+     - `xbrl_extract_formula_test.jsonl <data/test/xbrl_extract_formula_test.jsonl>`__
    * - Formula Calculation
      - XBRL Extraction
      - 3.4k
      - 835
      - 3.8k
      - Accuracy, F1
-     - `Hugging Face <https://huggingface.co/datasets/wangd12/XBRL_analysis>`__
-     - `xbrl_extract_train.jsonl <https://github.com/Open-Finance-Lab/FinLoRA/blob/main/data/train/xbrl_extract_train.jsonl>`__
-     - `xbrl_extract_formula_calculations_test.jsonl <https://github.com/Open-Finance-Lab/FinLoRA/blob/main/data/test/xbrl_extract_formula_calculations_test.jsonl>`__
+     - [Removed for anonymization]
+     - `xbrl_extract_train.jsonl <data/train/xbrl_extract_train.jsonl>`__
+     - `xbrl_extract_formula_calculations_test.jsonl <data/test/xbrl_extract_formula_calculations_test.jsonl>`__
    * - FinanceBench
      - Math
      - 86
      - 43
      - 983
      - BERTScore
-     - `GitHub <https://github.com/KirkHan0920/XBRL-Agent/blob/main/Datasets/financebench.xlsx>`__
-     - `financebench_train.jsonl <https://github.com/Open-Finance-Lab/FinLoRA/blob/main/data/train/financebench_train.jsonl>`__
-     - `financebench_test.jsonl <https://github.com/Open-Finance-Lab/FinLoRA/blob/main/data/test/financebench_test.jsonl>`__
+     - [Removed for anonymization]
+     - `financebench_train.jsonl <data/train/financebench_train.jsonl>`__
+     - `financebench_test.jsonl <data/test/financebench_test.jsonl>`__
 
 
 Financial Statement analysis involves extracting and interpreting financial data from XBRL-formatted documents. This process enables users to analyze financial statements, extract specific values, construct formulas, and perform calculations based on the extracted data.

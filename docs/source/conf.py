@@ -55,11 +55,11 @@ html_css_files = [
 ]
 
 html_context = {
-    "display_github": True,  # Integrate GitHub
-    "github_user": "Open-Finance-Lab",  # Username
-    "github_repo": "FinLoRA",  # Repo name
-    "github_version": "main",  # Version
-    "conf_py_path": "/docs/source/",  # Path in the checkout to the docs root
+    "display_github": False,  # Disabled for anonymous submission
+    # "github_user": "[Removed for anonymization]",  # Username
+    # "github_repo": "FinLoRA",  # Repo name
+    # "github_version": "main",  # Version
+    # "conf_py_path": "/docs/source/",  # Path in the checkout to the docs root
 }
 
 latex_elements = {
@@ -71,4 +71,4 @@ latex_elements = {
     '''
 }
 
-googleanalytics_id = "G-GS437TNCDJ"
+# googleanalytics_id = "[Removed for anonymization]"

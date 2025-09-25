@@ -84,7 +84,7 @@ def upload_lora_models_to_hub():
 
                     api.upload_folder(
                         folder_path=lora_model_path,
-                        repo_id="wangd12/" + model_repo_name,
+                        repo_id="[Removed for anonymization]/" + model_repo_name,
                         repo_type="model",
                         commit_message=f"Add/update LoRA model: {model_repo_name}"
                     )

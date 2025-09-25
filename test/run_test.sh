@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # export TRANSFORMERS_NO_ADVISORY_WARNINGS=1
 # export TOKENIZERS_PARALLELISM=0
 

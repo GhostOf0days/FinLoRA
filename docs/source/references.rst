@@ -21,13 +21,13 @@ Datasets
 
 .. [FNXL] Soumya, A., & Joshi, A. (2021). *FNXL: Financial Numerical Expression Labeling*. GitHub Repository. https://github.com/soummyaah/FNXL
 
-.. [XBRL_Term] Han, K., Wang, D., & Zha, D. (2023). *XBRL Terminology*. GitHub Repository. https://github.com/KirkHan0920/XBRL-Agent/blob/main/Datasets/XBRL%20Terminology.xlsx
+.. [XBRL_Term] [Removed for anonymization] (2023). *XBRL Terminology*. [Removed for anonymization]
 
-.. [XBRL_Analysis] Wang, D., Han, K., & Zha, D. (2023). *XBRL Analysis Dataset*. Hugging Face Dataset. https://huggingface.co/datasets/wangd12/XBRL_analysis
+.. [XBRL_Analysis] [Removed for anonymization] (2023). *XBRL Analysis Dataset*. [Removed for anonymization]
 
-.. [Financial_Math] Han, K., Wang, D., & Zha, D. (2023). *Financial Math Formulas*. GitHub Repository. https://github.com/KirkHan0920/XBRL-Agent/blob/main/Datasets/formulas_with_explanations_with_questions_with_gt.xlsx
+.. [Financial_Math] [Removed for anonymization] (2023). *Financial Math Formulas*. [Removed for anonymization]
 
-.. [FinanceBench] Han, K., Wang, D., & Zha, D. (2023). *FinanceBench*. GitHub Repository. https://github.com/KirkHan0920/XBRL-Agent/blob/main/Datasets/financebench.xlsx
+.. [FinanceBench] [Removed for anonymization] (2023). *FinanceBench*. [Removed for anonymization]
 
 Large Language Models
 --------------------
@@ -61,7 +61,7 @@ Other Papers
 
 .. [BERTScore] Zhang, T., Kishore, V., Wu, F., Weinberger, K. Q., & Artzi, Y. (2019). *BERTScore: Evaluating Text Generation with BERT*. arXiv preprint arXiv:1904.09675.
 
-.. [FinLoRA] Wang, D., Patel, J., Zha, D., Yang, S. Y., & Liu, X. Y. (2025). *FinLoRA: Benchmarking LoRA Methods for Fine-Tuning LLMs on Financial Datasets*. arXiv preprint arXiv:2505.19819.
+.. [FinLoRA] Anonymous (2025). *FinLoRA: Benchmarking LoRA Methods for Fine-Tuning LLMs on Financial Datasets*. Under Review
 
 .. [Liu2022] Haokun Liu, Derek Tam, Mohammed Muqeeth, Jay Mohta, Tenghao Huang, Mohit Bansal, and Colin A Raffel. Few-shot parameter-efficient fine-tuning is better and cheaper than in-context learning. Advances in Neural Information Processing Systems, 35:1950–1965, 2022.
 
