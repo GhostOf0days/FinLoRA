@@ -1,14 +1,5 @@
 # FinLoRA: Benchmarking LoRA Methods for Fine-Tuning LLMs on Financial Datasets
 
-<p>
-  <a href="#datasets"><img src="_images/dataset_btn.svg"></a>
-  <a href="#demo"><img src="_images/demo_btn.svg"></a>
-  <a href="#lora-adapters"><img src="_images/models_btn.svg"></a>
-  <a href="#citation"><img src="_images/paper_btn.svg"></a>
-  <a href="#guide"><img src="_images/doc_btn.svg"></a>
-
-</p>
-
 ## Abstract
 
 Low-rank adaptation (LoRA) methods offer an affordable solution to scale general-purpose
@@ -485,16 +476,3 @@ We welcome contributions to the FinLoRA project! Please feel free to submit issu
 ## License
 
 This project is released under OpenMDW-1.0. Please check individual dataset licenses for specific usage terms.
-
-## Citation
-
-If you use this work, please cite:
-
-```bibtex
-@article{finlora2025,
-  title={FinLoRA: Benchmarking LoRA Methods for Fine-Tuning LLMs on Financial Datasets},
-  author={Anonymous},
-  journal={Under Review},
-  year={2025}
-}
-```
